@@ -1,0 +1,9 @@
+- 
+- Physics Final Project TO DO list
+- 
+- SOM
+- Study For Bio
+- Physics Review
+- December listening assignment
+- 
+- figure out autotune
