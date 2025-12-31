@@ -1,5 +1,5 @@
 ---
 aliases:
-  - Charged
+  - charged
 ---
-A charged object means that it has a electrical charge stored in it. 
+A charged object means that it has a [[Electrical Charge|electrical charge]] stored in it. 

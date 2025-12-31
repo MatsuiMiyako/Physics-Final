@@ -3,4 +3,4 @@ aliases:
   - magnet
   - magnets
 ---
-A magnet is a material that produces a magnetic field. A magnet in used in the dynamic microphone capsule to create a stable magnetic field in which a voice coil moves to create a electrical signal through electromagnetic induction. 
+A magnet is a material that produces a [[Magnetic Field|magnetic field]]. A magnet in used in the [[Dynamic Microphone|dynamic microphone]] [[Microphone Capsule|capsule]] to create a stable magnetic [[Field|field]] in which a [[Voice Coil|voice coil]] moves to create a electrical signal through [[Electromagnetic Induction|electromagnetic induction]]. 

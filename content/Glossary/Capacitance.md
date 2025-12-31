@@ -2,4 +2,4 @@
 aliases:
   - capacitance
 ---
-Capacitance is the measure of a capacitor's ability to store an electrical charge. 
+Capacitance is the measure of a [[Capacitor|capacitor]]'s ability to store an [[Electrical Charge|electrical charge]]. 

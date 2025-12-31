@@ -3,4 +3,4 @@ aliases:
   - dynamic microphone
   - dynamic microphones
 ---
-Electromagnetic principles
+[[Electromagnetic]] principles

@@ -10,5 +10,5 @@ I'm going to be delving into acoustics, the study of sound, and I'm going to be 
 
 ## Deliverables
 - A working DIY microphone [link placeholder]
-- Documentation website (this) [[DIY Electret Microphone Project]]
+- Documentation website (this) [[index]]
 - Physics analysis and reflections [[Microphone Basics]]
