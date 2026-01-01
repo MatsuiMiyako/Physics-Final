@@ -7,11 +7,13 @@ There are many different types of microphones but all of the microphones share t
 - A diaphragm is attached to a coil of wire
 - The coil moves inside a [[Magnetic Field]]
 - Movement creates a [[Voltage]]
+
 Key traits:
 - No external power needed
 - Very durable
 - Handles loud sounds well
 - Lower sensitivity
+
 Common use: Live vocals, drums
 
 ### [[Condenser Microphone]]
