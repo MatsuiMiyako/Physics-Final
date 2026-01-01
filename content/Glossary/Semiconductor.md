@@ -1,0 +1,1 @@
+A semiconductor is a material that can sometimes let electricity flow and sometimes stop it. The electricity flow can be controlled.
