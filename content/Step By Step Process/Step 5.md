@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 2.jpg" width="400">
+  <img src="media/Steps/Step 5.jpg" width="400">
 </p>
-<em>Cut the breadboard as shown in the diagram.</em>
+<em>Label one of the bus strips as "GROUND" or "GND" for short.</em>
 
 
 <div class="step-nav" style="
@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 1.md" style="
+  <a href="Step 4.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -27,9 +27,9 @@
     color: white;
     font-size: 14px;
     border-radius: 6px;
-  ">Step 2</span>
+  ">Step 5</span>
   
-  <a href="Step 3.md" style="
+  <a href="Step 6.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;

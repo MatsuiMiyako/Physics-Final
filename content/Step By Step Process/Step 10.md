@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 2.jpg" width="400">
+  <img src="media/Steps/Step 10.jpg" width="400">
 </p>
-<em>Cut the breadboard as shown in the diagram.</em>
+<em>Insert the green and black wires as shown. Make sure the green wire connects to ground node and the black wire connects to the same row as the bent pin.</em>
 
 
 <div class="step-nav" style="
@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 1.md" style="
+  <a href="Step 9.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -27,9 +27,9 @@
     color: white;
     font-size: 14px;
     border-radius: 6px;
-  ">Step 2</span>
+  ">Step 10</span>
   
-  <a href="Step 3.md" style="
+  <a href="Step 11.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;
