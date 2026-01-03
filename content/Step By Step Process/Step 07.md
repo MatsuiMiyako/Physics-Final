@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 9.jpg" width="400">
+  <img src="media/Steps/Step 7.jpg" width="400">
 </p>
-<em>We are only going to be using the black and green wires from our audio jack.</em>
+<em>Bend the pin labeled "3" from the previous step as shown. </em>
 
 
 <div class="step-nav" style="
@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 8.md" style="
+  <a href="Step 06.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -24,12 +24,12 @@
   
   <span style="
     padding: 10px 20px;
-    color: white;
+    color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
-  ">Step 9</span>
+  ">Step 7</span>
   
-  <a href="Step 10.md" style="
+  <a href="Step 08.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;

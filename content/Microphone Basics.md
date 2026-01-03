@@ -21,21 +21,25 @@ Common use: Live vocals, drums
 - Diaphragm + [[Backplate|backplate]] form two [[Charged|charged]] plates
 - Sound changes the distance between plates
 - This changes [[Capacitance|capacitance]] to create signals
+
 Key traits:
 - Needs power ([[Phantom Power|phantom power]])
 - Very sensitive
 - Captures detail well
 - More fragile
-**Common use:** Studio recording, vocals, acoustic instruments
+
+Common use: Studio recording, vocals, acoustic instruments
 
 ### [[Electret Microphone]]
 - A special type of condenser mic
 - Has a permanently [[Charged|charged]] material ([[Electret|electret]])
 - Does not need external voltage to [[Electrical Charge|charge]] the [[Microphone Capsule|capsule]]
 - Still needs power for internal electronics ([[FET]])
+
 Key traits:
 - Small
 - Cheap
 - Low power
 - Common in phones, laptops, headsets
+
 Common use: Embedded electronics

@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 5.jpg" width="400">
+  <img src="media/Steps/Step 4.jpg" width="400">
 </p>
-<em>Label one of the bus strips as "GROUND" or "GND" for short.</em>
+<em>Snap the two "vertical bus strips" together as shown.</em>
 
 
 <div class="step-nav" style="
@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 4.md" style="
+  <a href="Step 03.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -24,12 +24,12 @@
   
   <span style="
     padding: 10px 20px;
-    color: white;
+    color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
-  ">Step 5</span>
+  ">Step 4</span>
   
-  <a href="Step 6.md" style="
+  <a href="Step 05.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;

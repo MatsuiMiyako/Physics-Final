@@ -24,7 +24,7 @@
   
   <span style="
     padding: 10px 20px;
-    color: white;
+    color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
   ">Step 11</span>

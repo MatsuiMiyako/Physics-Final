@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 2.md" style="
+  <a href="Step 02.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -24,12 +24,12 @@
   
   <span style="
     padding: 10px 20px;
-    color: white;
+    color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
   ">Step 3</span>
   
-  <a href="Step 4.md" style="
+  <a href="Step 04.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;

@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 6.jpg" width="400">
+  <img src="media/Steps/Step 5.jpg" width="400">
 </p>
-<em>Orient your K596 JFET as shown in the diagram. The text should face you and the "circle" should face away from you.</em>
+<em>Label one of the bus strips as "GROUND" or "GND" for short.</em>
 
 
 <div class="step-nav" style="
@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 5.md" style="
+  <a href="Step 04.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -24,12 +24,12 @@
   
   <span style="
     padding: 10px 20px;
-    color: white;
+    color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
-  ">Step 6</span>
+  ">Step 5</span>
   
-  <a href="Step 7.md" style="
+  <a href="Step 06.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;
