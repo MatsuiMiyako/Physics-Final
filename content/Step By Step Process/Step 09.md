@@ -27,6 +27,7 @@
     color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
+    font-weight: bold;
   ">Step 9</span>
   
   <a href="Step 10.md" style="
