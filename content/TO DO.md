@@ -1,9 +1,0 @@
-- 
-- 
-- 
-- SOM
-- Study For Bio
-- Physics Review
-- 
-- my shoes
-- figure out autotune

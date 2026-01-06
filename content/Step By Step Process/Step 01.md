@@ -13,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="index.md" style="
+  <a href="Step 00.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
