@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="media/Steps/Step 10.jpg" width="400">
+  <img src="media/Steps/Step 12.jpg" width="400">
 </p>
-<em>Insert the green and black wires as shown. Make sure the green wire connects to ground node and the black wire connects to the same row as the bent pin. I have soldered both ends to another wire to provide more stability.</em> 
-
-
+<em>Solder two wires in the place of the drawn ones as shown.</em>
 
 
 <div class="step-nav" style="
@@ -15,7 +13,7 @@
   padding-top: 2em;
   border-top: 1px solid #2a2a2a;
 ">
-  <a href="Step 9.md" style="
+  <a href="Step 11.md" style="
     padding: 10px 20px;
     background: #2a2a2a;
     color: white;
@@ -29,10 +27,10 @@
     color: #7b97aa;
     font-size: 14px;
     border-radius: 6px;
-    font-weight: bold;
-  ">Step 10</span>
+	font-weight: bold;
+  ">Step 12</span>
   
-  <a href="Step 11.md" style="
+  <a href="Step 13.md" style="
     padding: 10px 20px;
     background: #6c63ff;
     color: white;
