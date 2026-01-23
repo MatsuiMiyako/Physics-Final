@@ -9,7 +9,9 @@ The [[Biasing Resistor|biasing resistor]] here sets how much [[Current|current]]
 - [[Breadboard]]
 - [[Electret Condenser Capsule]]
 - [[K596 JFET]]
+
 Total Cost: $51.62 CAD
+
 Actual Cost: $32.39 CAD
 
 
