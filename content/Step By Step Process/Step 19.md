@@ -1,5 +1,5 @@
 <p align="center">
-  <video width="400">
+  <video width="400" autoplay loop controls>
     <source src="media/Steps/Step 19.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
