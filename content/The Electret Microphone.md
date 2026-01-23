@@ -3,7 +3,7 @@
 A [[Electret Microphone|electret microphone]] is a type of [[Condenser Microphone|condenser microphone]] that converts [[Sound Waves|sound waves]] into a very small electrical signal. 
 
 The [[Electret|electret]] [[Microphone Capsule|microphone capsule]] contains:
-- A thin membrane called a  [[Diaphragm|diaphragm]]
+- A thin membrane called a [[Diaphragm|diaphragm]]
 - A fixed [[Backplate|backplate]]
 - An electret material
 
