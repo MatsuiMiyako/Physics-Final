@@ -1,10 +1,34 @@
 <p align="center">
-  <video width="400" autoplay loop controls>
+  <video width="400" autoplay loop muted playsinline controls>
     <source src="media/Steps/Step 19.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
-<em>A little audio sample on what the microphone sounds like. </em>
+<em>A little audio sample on what the microphone sounds like.</em>
+
+<!-- Optional: Add a fallback play button for stricter browsers -->
+<button onclick="document.getElementById('step19-video').play()" 
+        style="display: none; margin: 10px auto; padding: 8px 16px;"
+        id="play-fallback">
+  Click to play video
+</button>
+<script>
+  // Handle autoplay restrictions
+  const video = document.querySelector('video');
+  const fallbackBtn = document.getElementById('play-fallback');
+  
+  video.addEventListener('loadeddata', () => {
+    const playPromise = video.play();
+    
+    if (playPromise !== undefined) {
+      playPromise.catch(() => {
+        // Autoplay failed, show fallback button
+        fallbackBtn.style.display = 'block';
+        video.controls = true; // Ensure controls are visible
+      });
+    }
+  });
+</script>
 
 
 <div class="step-nav" style="
